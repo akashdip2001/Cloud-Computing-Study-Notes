@@ -40,16 +40,16 @@ Think of streaming platforms like Netflix; you don’t need to store all movies 
 Provides virtualized computing resources over the internet. Examples include virtual machines, storage, and networks.
 
 - **Examples**: Amazon Web Services EC2, Google Cloud Compute Engine, Microsoft Azure VM.
-- **Syntax Example** (for provisioning a VM in AWS using CLI): [**| AWS setup Video |**](https://www.youtube.com/playlist?list=PL_RecMEcs_p_TuIPqY1zVYeGoL5RriWhk)
+- **Syntax Example** (for provisioning a VM in **AWS** using CLI): [**| AWS setup Video |**](https://www.youtube.com/playlist?list=PL_RecMEcs_p_TuIPqY1zVYeGoL5RriWhk)
   ```bash
   aws ec2 run-instances --image-id ami-0abcdef1234567890 --count 1 --instance-type t2.micro --key-name MyKeyPair
   ```
-- **Output**: A virtual machine instance running on AWS.
+- **Output**: A virtual machine instance running on **AWS**.
 
 ### PaaS (Platform as a Service)
 Provides hardware and software tools over the internet, typically for application development. 
 
-- **Examples**: Google App Engine, Heroku, AWS Elastic Beanstalk.
+- **Examples**: Google App Engine, Heroku, **AWS** Elastic Beanstalk.
 - **Syntax Example** (Deploying a web app in Google App Engine):
   ```yaml
   runtime: python37

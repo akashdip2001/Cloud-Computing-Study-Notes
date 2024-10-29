@@ -40,7 +40,7 @@ Think of streaming platforms like Netflix; you don’t need to store all movies 
 Provides virtualized computing resources over the internet. Examples include virtual machines, storage, and networks.
 
 - **Examples**: Amazon Web Services EC2, Google Cloud Compute Engine, Microsoft Azure VM.
-- **Syntax Example** (for provisioning a VM in AWS using CLI):
+- **Syntax Example** (for provisioning a VM in AWS using CLI): [**| AWS setup Video |**](https://www.youtube.com/playlist?list=PL_RecMEcs_p_TuIPqY1zVYeGoL5RriWhk)
   ```bash
   aws ec2 run-instances --image-id ami-0abcdef1234567890 --count 1 --instance-type t2.micro --key-name MyKeyPair
   ```

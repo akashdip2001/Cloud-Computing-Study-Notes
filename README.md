@@ -14,6 +14,7 @@
     - [Hypervisors](#hypervisors)
 - [5. Cloud Providers](#cloud-providers)
 - [6. Basic Cloud Services](#basic-cloud-services)
+- [**7. EXAM**](#EXAM)
 
 ---
 
@@ -161,3 +162,56 @@ Provide scalable database solutions.
   ```
 
 <img src="https://github.com/akashdip2001/college-final-year-project/blob/main/img/colour_line.png">
+
+# EXAM:
+
+### Question 1:
+**Question:** Assume that an IT administrator needs to manage a large number of virtual machines efficiently. Which tool can help automate and streamline this process?
+
+**Answer:** Hypervisor Management
+
+### Question 2:
+**Question:** What technology enables automatic scaling of resources based on demand, ensuring optimal performance and cost-efficiency?
+
+**Answer:** Cloud Orchestration and Auto-scaling
+
+### Question 3:
+**Question:** What key metric is used to measure the reliability and availability of cloud services?
+
+**Answer:** Service Uptime
+
+### Question 4:
+**Question:** Which cloud computing technique distributes incoming traffic across multiple servers to prevent overloading and improve performance?
+
+**Answer:** Elastic Load Balancing
+
+### Question 5:
+**Question:** What practice helps organizations monitor and control cloud spending to optimize resource utilization and reduce costs?
+
+**Answer:** Cost Monitoring
+
+### Question 6:
+**Question:** What approach involves managing infrastructure through code, enabling automation and version control?
+
+**Answer:** Infrastructure as Code (IaC)
+
+### Question 7:
+**Question:** What tools and platforms facilitate collaboration among development teams, enabling efficient communication and knowledge sharing?
+
+**Answer:** Collaboration Platforms
+
+### Question 8:
+**Question:** What cloud computing feature automatically adjusts resource allocation to meet fluctuating demand, ensuring optimal performance and cost-effectiveness?
+
+**Answer:** Auto-scaling
+
+### Question 9:
+**Question:** What agreement defines the specific service levels and performance metrics that a cloud service provider must meet?
+
+**Answer:** SLA
+
+### Question 10:
+**Question:** What tools and resources are essential for developers to build, test, and deploy cloud applications efficiently?
+
+**Answer:** Developer Tools
+

@@ -160,4 +160,4 @@ Provide scalable database solutions.
   aws rds create-db-instance --db-instance-identifier mydb --db-instance-class db.t2.micro --engine mysql
   ```
 
----
+<img src="https://github.com/akashdip2001/college-final-year-project/blob/main/img/colour_line.png">
